@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<libreria>
+    <nombre>Mi libreria</nombre>
+    <libros>
+        <libro isbn="123456789">
+            <autor>Samuel M.</autor>
+            <titulo>Java 8</titulo>
+        </libro>
+        <libro isbn="987654321">
+            <autor>Samuel M.</autor>
+            <titulo>Buenos Dias</titulo>
+        </libro>
+        <libro isbn="321456987">
+            <autor>Samuel M.</autor>
+            <titulo>Libro 3</titulo>
+        </libro>
+    </libros>
+</libreria>
